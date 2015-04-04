@@ -19,7 +19,7 @@ assign a value to an object in an environment that is different from the
 current environment. Below are two functions that are used to create a
 special object that stores a numeric vector and caches its mean.
 
-The first function, `makeVector` creates a special "vector", which is
+sdsdsdsdsdhe first function, `makeVector` creates a special "vector", which is
 really a list containing a function to
 
 1.  set the value of the vector
@@ -102,4 +102,10 @@ In order to complete this assignment, you must do the following:
 
 ### Grading
 
-This assignment will be graded via peer assessment.
+This assig
+
+visssasd
+nm
+
+
+scdent will be graded via peer assessment.
